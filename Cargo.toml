@@ -1,0 +1,9 @@
+[package]
+name = "notify-me-app"
+version = "0.1.0"
+authors = ["Stephen Collins <stephenc211@gmail.com>"]
+
+[dependencies]
+hyper = "0.12"
+config = "0.9"
+futures = "0.1.25"

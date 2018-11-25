@@ -1,1 +1,0 @@
-const checkNews = require('./checkNews')

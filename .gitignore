@@ -1,3 +1,5 @@
-node_modules
-secret.js
+Settings.toml
 dump.rdb
+
+/target
+**/*.rs.bk
